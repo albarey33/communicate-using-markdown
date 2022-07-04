@@ -13,3 +13,17 @@
 ![Image of MachuPicchu](https://github.com/albarey33/albarey33.github.io/blob/main/images/machupicchu.jpg)
 
 alt-text
+
+### Adding Code Blocks
+
+```
+print("Hello World")
+```
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+```
+
